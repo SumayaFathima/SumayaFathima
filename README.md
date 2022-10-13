@@ -55,7 +55,6 @@
 ![pv](https://pageview.vercel.app/?github_user=sumayafathima)
  
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumayafathima&show_icons=true&locale=en&layout=compact" alt="sumayafathima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumayafathima&show_icons=true&locale=en" alt="sumayafathima" /></p>
 
