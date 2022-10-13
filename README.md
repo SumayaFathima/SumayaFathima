@@ -47,7 +47,7 @@
 
  <br>
  
-*** ### Focused learner with consistency *** 
+*** ### Focused Learner with Consistency *** 
 
 
  
