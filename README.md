@@ -50,10 +50,9 @@
  <br>
  
  
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=sumayafathima&show_icons=true&theme=dracula&hide=stars,issues)
-  
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumayafathima&" alt="sumayafathima" /></p> ![pv](https://pageview.vercel.app/?github_user=sumayafathima)
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=sumayafathima&show_icons=true&theme=dracula&hide=stars,issues) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumayafathima&" alt="sumayafathima" /></p>
+
+![pv](https://pageview.vercel.app/?github_user=sumayafathima)
  
  
 ### 💻 Focused Learner with Consistency 💻
