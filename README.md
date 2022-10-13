@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sumaya Fathima</h1>
 <h3 align="center">An SDET with 6+years industry experience and have strong skills in Front end and Backend Automation Testing from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*panuLBsXTjypTQ_kwF2FWg.png">
 
 <br>
 
