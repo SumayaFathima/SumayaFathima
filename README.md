@@ -4,33 +4,8 @@
 
 <br>
 
-### 🛠️ My Technical Skills: 
-
-• Front-End-Automation - Selenium WebDriver | Java 
-
-• Back-End-Automation - Postman API
-
-• Programming Languages - Core Java (7 and 8)
-
-• DevOps Automation - Git | Maven | Jenkins 
-
-• Source Control Tools - GitHub
-
-• Build Tools - Maven
-
-• CI /CD Tools - Jenkins Pipeline
-
-• Data Structures - Arrays, String, Collections, Stack, Queue, LinkedList, List, Set, Map, Tree
-
-• Algorithms - Two Pointer, Sliding Window, Hashing, Binary Search, Recursion
-
-• Framework -BDD
-
-• Manual Testing -Exploratory Testing, Test case Enumeration
-
-• Others -Basic SQL
-
-• Domain Knowledge -Healthcare | Communication media | Investments
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></p>
 
 <br>
 
