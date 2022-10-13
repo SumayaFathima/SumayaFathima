@@ -32,12 +32,14 @@
 
 • Domain Knowledge -Healthcare | Communication media | Investments
 
+<br>
 
  ### Learning Roadmap: 
   
   🌱 I’m currently learning Data Structures & Algorithms <br>
   🌱 I’ll empower my skills on Rest Assured API
-  
+
+<br>
   
 🔗 &nbsp;**Connect with me**
 <p align="left">
