@@ -34,7 +34,7 @@
 
 <br>
 
- 🔗 &nbsp; #### You can connect with me on
+ 🔗 &nbsp; ***You can connect with me on***
  
 <p align="left">
 <a href="[https://linkedin.com/in/gautamkrishnar](https://www.linkedin.com/in/sumaya-fathima-sdet)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumayafathima" height="30" width="40" /></a>
