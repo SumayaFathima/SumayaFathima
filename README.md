@@ -55,9 +55,6 @@
 ![pv](https://pageview.vercel.app/?github_user=sumayafathima)
  
  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumayafathima&show_icons=true&locale=en" alt="sumayafathima" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumayafathima&" alt="sumayafathima" /></p>
 
 ### 💻 Focused Learner with Consistency 💻
