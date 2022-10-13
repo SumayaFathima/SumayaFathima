@@ -4,7 +4,7 @@
 
 <br>
 
-### Technical Skills: 
+### My Technical Skills: 
 
 • Front-End-Automation - Selenium WebDriver | Java 
 
@@ -34,14 +34,14 @@
 
 <br>
 
-🔗 &nbsp; **Connect with me**
+🔗 &nbsp; **You can connect with me on **
 <p align="left">
 <a href="[https://linkedin.com/in/gautamkrishnar](https://www.linkedin.com/in/sumaya-fathima-sdet)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumayafathima" height="30" width="40" /></a>
  
 <br>
 <br>
  
- ### Learning Roadmap: 
+ ### My Learning Roadmap: 
   
   🌱 I’m currently learning Data Structures & Algorithms <br>
   🌱 I’ll empower my skills on Rest Assured API
