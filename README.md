@@ -1,4 +1,4 @@
-#### Hello👋("C:\Users\sumay\OneDrive\Desktop\Hello.png"](https://github.com/SumayaFathima?tab=repositories))
+#### Hello👋(https://github.com/SumayaFathima?tab=repositories)
 
 #### I'm Sumaya Fathima, an SDET with 6+years industry experience and have strong skills in Front end and Backend Automation Testing. 
 
