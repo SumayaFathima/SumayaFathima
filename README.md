@@ -42,7 +42,7 @@
 <br>
 <br>
  
- 🌱 ### My Learning Roadmap: 
+ ### 🌱 My Learning Roadmap: 
   
   • I’m currently learning Data Structures & Algorithms <br>
   • I’ll empower my skills on Rest Assured API
