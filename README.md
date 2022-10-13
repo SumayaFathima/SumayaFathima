@@ -4,7 +4,7 @@
 
 <br>
 
-### My Technical Skills: 
+### 🛠️ My Technical Skills: 
 
 • Front-End-Automation - Selenium WebDriver | Java 
 
@@ -41,14 +41,14 @@
 <br>
 <br>
  
- ### My Learning Roadmap: 
+ ### 🔭 My Learning Roadmap: 
   
   🌱 I’m currently learning Data Structures & Algorithms <br>
   🌱 I’ll empower my skills on Rest Assured API
 
  <br>
  
-### ##Focused Learner with Consistency##
+### 💻 Focused Learner with Consistency 💻
 
 
  
