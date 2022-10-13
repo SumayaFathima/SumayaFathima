@@ -53,6 +53,13 @@
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=sumayafathima&show_icons=true&theme=dracula&hide=stars,issues)
   
 ![pv](https://pageview.vercel.app/?github_user=sumayafathima)
+ 
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumayafathima&show_icons=true&locale=en&layout=compact" alt="sumayafathima" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumayafathima&show_icons=true&locale=en" alt="sumayafathima" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumayafathima&" alt="sumayafathima" /></p>
 
 ### 💻 Focused Learner with Consistency 💻
 
