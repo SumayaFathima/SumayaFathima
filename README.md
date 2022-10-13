@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sumaya Fathima</h1>
 <h3 align="center">An SDET with 6+years industry experience and have strong skills in Front end and Backend Automation Testing from India.</h3>
 
-<h3 align="center">### 💻 Focused Learner with Consistency 💻</h3>
+<h3 align="center"> 💻 Focused Learner with Consistency 💻</h3>
 
 <br>
 
@@ -28,6 +28,3 @@
  
  
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=sumayafathima&show_icons=true&theme=dracula&hide=stars,issues) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumayafathima&" alt="sumayafathima" /></p>
-
- 
-### 💻 Focused Learner with Consistency 💻
